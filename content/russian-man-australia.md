@@ -81,4 +81,4 @@ With all of that in mind, it seems that “for the wake and skeleton dance” is
 
 and that we’ll be able to avoid the fate of the **dreamtime Dostoyevskys**.
 
-*(1100 words, excluding this little disclaimer!)*
+*(1029 words, excluding this little disclaimer!)*
