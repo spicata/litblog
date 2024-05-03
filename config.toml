@@ -1,6 +1,6 @@
 # The URL the site will be built for
 base_url = "https://blog.99000000.xyz"
-title = "Lit Blog"
+title = "the lit garden"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -24,8 +24,8 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 even_menu = [
-    {url = "$BASE_URL", name = "Home"},
-    {url = "$BASE_URL/about", name = "About"},
+    {url = "$BASE_URL", name = "home"},
+    {url = "$BASE_URL/about", name = "about"},
 ]
 
-even_title = "Lit Blog"
+even_title = "the lit garden"
