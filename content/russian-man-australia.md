@@ -3,11 +3,11 @@ title = "the russian man in australian literature"
 date = 2024-05-01
 +++ 
 
-To your potential disappointment, the Russian man is (sadly) not Rasputin.
-
-As a really brief summary, when read literally, “for the wake and skeleton dance” is about a wake held for ‘dreamtime Dostoyevskys’. However, as with all of Watson’s poetry, there is more to it than what is just on the page. So let’s dive right into it...
+*To your potential disappointment, the Russian man is (sadly) **not** Rasputin.*
 
 ![my favourite sww poem](/love.png)
+
+As a really brief summary, when read literally, “for the wake and skeleton dance” is about a wake held for ‘dreamtime Dostoyevskys’. However, as with all of Watson’s poetry, there is more to it than what is just on the page. So let’s dive right into it...
 
 The poem opens with the line “the dreamtime Dostoyeskys murmur of a recession in the spirit world”. Just from reading this line, we might already have a few questions. Who is Dostoyevsky? Why is he talking about a recession?
 
@@ -31,6 +31,8 @@ Then there are also the ‘dreamtime Dostoyevskys’, which is a recurring phras
 > the dreamtime Dostoyevskys ponder  
 > the dreamtime Dostoyevskys feel the early winter
 
+![i see dostoyevsky](/iseehim.png)
+
 Importantly, Dreamtime is lowercase in all of these recurrences despite being a proper noun. The effect is twofold:
 
 1. Proper nouns always start with an uppercase to indicate its difference from common nouns. The use of the lower case in ‘dreamtime’ reveals the normalcy of the Dreamtime from Watson’s Indigenous point of view. Contrastingly, Dostoyevsky who can be seen as metonymy for Western culture and influence is capitalised, emphasising it as external and alien, not fitting but still being forced into — and in turn suppressing — Indigenous Australian culture. 
@@ -40,7 +42,7 @@ But still...
 
 ## who on earth is dostoyevsky?
 
-![i see dostoyevsky](/iseehim.png)
+![hi dostoyevsky!](/bonjour.png)
 
 *tl;dr*: Fyodor Dostoyevsky (1821-1881) was a highly influential Russian writer. Often said to be a writer who gave voice to the anonymous or underground, whose literary works had strong links to self and spirituality.
 
@@ -75,10 +77,8 @@ This ‘retirement eternal’ is a euphemism for death. And through that, Watson
 
 Even the specific wording of ‘dreamtime Dostoyevsky’ differs, as this one is singular. It is the death of the last dreamtime Dostoyevsky, and with it it brings a fear of the finality of this decline.
 
-**wake:**  
-**(verb) emerge or cause to emerge from sleep; stop sleeping**  
-**(noun) a watch or vigil held beside the body of someone who has died, sometimes accompanied by ritual observances.**
+With all of that in mind, it seems that “for the wake and skeleton dance” is an elegy lamenting the perceived decline of Indigenous culture within modern Australian society. However, it is not too late; Indigenous culture seems to be in a resurgance lately, and proposal such as the Voice Referendum (despite failing) highlights that Australian society is at a point where these issues regarding Indigenous Australian autonomy and recognition can be discussed. Which hopefully means that action is soon to come...
 
-All in all, “for the wake and skeleton dance” serves as an elegy lamenting the perceived decline of Indigenous culture within modern Australian society. Luckily it seems that Indigenous culture has been on a resurgence recently, so hopefully this is a trend that will continue for a long time to come.
+and that we’ll be able to avoid the fate of the **dreamtime Dostoyevskys**.
 
-Thanks for reading, and I'll catch you next time.
+*(1100 words, excluding this little disclaimer!)*
